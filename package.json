@@ -1,0 +1,19 @@
+{
+  "name": "push-linked-tree-reduce",
+  "version": "1.0.0",
+  "description": "A tree-list reduce module for push framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/attack-monkey/push-linked-tree-reduce.git"
+  },
+  "author": "attack-monkey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/attack-monkey/push-linked-tree-reduce/issues"
+  },
+  "homepage": "https://github.com/attack-monkey/push-linked-tree-reduce#readme"
+}
